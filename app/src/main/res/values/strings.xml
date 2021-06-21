@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio8.1</string>
+    <string name="leer">Leer Archivo..</string>
+    <string name="leerArchivo">LEER ARCHIVO</string>
+    <string name="guardarArchivo">GUARDAR ARCHIVO</string>
+    <string name="pangrama">Pangrama</string>
+</resources>
